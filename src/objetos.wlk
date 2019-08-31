@@ -33,7 +33,7 @@ object biblioteca {
 object munieco {
 	var _peso 
 	
-	method color() { return _color }
+	method color() { return _color }   // Esto es incorrecto, era parte de lo que había que corregir para que den los tests
 	method material() { return vidrio }
 	method peso() { return _peso }
 	method setPeso(peso) { _peso = peso }

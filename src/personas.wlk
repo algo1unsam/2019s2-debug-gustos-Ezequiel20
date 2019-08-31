@@ -5,7 +5,7 @@ object rosa {
 }
 
 object estefania {
-	method leGusta() { return false }
+	method leGusta() { return false }  // Esto es parte de lo que había que corregir para que den los tests
 }
 
 object luisa {
